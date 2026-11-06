@@ -42,7 +42,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 - Corpus: sha256 `ce3b21e4fa39b2b83963ad0b7dd23ce1beff435e631666c403e44c93977beb01` (16934 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
