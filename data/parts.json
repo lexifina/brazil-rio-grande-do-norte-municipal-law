@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "caico--30-leis-001.json": {
+   "acts": [
+    "caico/lei-2025-05622"
+   ],
+   "sha256": "30d40703b629eb8533044f8af206179eb1be1641e889b4ea58f1e58c9a1ee416"
+  }
+ },
+ "schema": 1
+}

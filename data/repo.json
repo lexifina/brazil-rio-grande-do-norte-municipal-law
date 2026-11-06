@@ -1,0 +1,17 @@
+{
+ "country": "BR-RN-MUNICIPAL",
+ "name": "Rio Grande do Norte: municipal chambers",
+ "tz": "America/Fortaleza",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Rio Grande do Norte (SAPL)",
+ "units": [
+  {
+   "id": "caico",
+   "folder": "caico",
+   "name": "Caicó",
+   "code": "BR-RN-CAICO",
+   "official_code": "2402006",
+   "source": "sapl.caico.rn.leg.br"
+  }
+ ]
+}

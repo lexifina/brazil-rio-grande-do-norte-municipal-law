@@ -1,0 +1,12 @@
+{
+  "path": "br-rn-municipal",
+  "code": "BR-RN-MUNICIPAL",
+  "name": "Rio Grande do Norte (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-rn",
+  "repo": "https://github.com/lexifina/brazil-rio-grande-do-norte-municipal-law",
+  "build": "built: the municipal law of Rio Grande do Norte from the Câmaras Municipais' SAPL",
+  "units": [
+    "caico"
+  ]
+}
